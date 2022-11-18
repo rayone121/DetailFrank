@@ -583,9 +583,9 @@ function oe(t, e, r) {
   (T.prototype.render = C),
   (w = []),
   (M.__r = 0);
-const le = "../assets/icons8-facebook-circled-3000.41488f83.png",
-  se = "../assets/icons8-instagram-3000.54b9343d.png",
-  ie = "../assets/icons8-telephone-handset-94.d7d2fbbe.png";
+const le = "./icons8-facebook-circled-3000.41488f83.png",
+  se = "./icons8-instagram-3000.54b9343d.png",
+  ie = "./icons8-telephone-handset-94.d7d2fbbe.png";
 var ce = 0;
 function m(t, e, r, l, o) {
   var _,
